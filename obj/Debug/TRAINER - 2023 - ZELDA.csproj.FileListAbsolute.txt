@@ -1,0 +1,22 @@
+C:\Users\NSC\source\repos\TRAINER - 2023 - ZELDA\bin\Debug\TRAINER - 2023 - ZELDA.exe.config
+C:\Users\NSC\source\repos\TRAINER - 2023 - ZELDA\bin\Debug\TRAINER - 2023 - ZELDA.exe
+C:\Users\NSC\source\repos\TRAINER - 2023 - ZELDA\bin\Debug\TRAINER - 2023 - ZELDA.pdb
+C:\Users\NSC\source\repos\TRAINER - 2023 - ZELDA\bin\Debug\Humanizer.xml
+C:\Users\NSC\source\repos\TRAINER - 2023 - ZELDA\bin\Debug\System.Buffers.xml
+C:\Users\NSC\source\repos\TRAINER - 2023 - ZELDA\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\NSC\source\repos\TRAINER - 2023 - ZELDA\bin\Debug\System.Memory.xml
+C:\Users\NSC\source\repos\TRAINER - 2023 - ZELDA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\NSC\source\repos\TRAINER - 2023 - ZELDA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\NSC\source\repos\TRAINER - 2023 - ZELDA\bin\Debug\System.ValueTuple.xml
+C:\Users\NSC\source\repos\TRAINER - 2023 - ZELDA\bin\Debug\Vanara.Core.xml
+C:\Users\NSC\source\repos\TRAINER - 2023 - ZELDA\bin\Debug\Vanara.PInvoke.Kernel32.xml
+C:\Users\NSC\source\repos\TRAINER - 2023 - ZELDA\bin\Debug\Vanara.PInvoke.Shared.xml
+C:\Users\NSC\source\repos\TRAINER - 2023 - ZELDA\obj\Debug\TRAINER - 2023 - ZELDA.csprojAssemblyReference.cache
+C:\Users\NSC\source\repos\TRAINER - 2023 - ZELDA\obj\Debug\TRAINER___2023___ZELDA.Form1.resources
+C:\Users\NSC\source\repos\TRAINER - 2023 - ZELDA\obj\Debug\TRAINER___2023___ZELDA.Properties.Resources.resources
+C:\Users\NSC\source\repos\TRAINER - 2023 - ZELDA\obj\Debug\TRAINER - 2023 - ZELDA.csproj.GenerateResource.cache
+C:\Users\NSC\source\repos\TRAINER - 2023 - ZELDA\obj\Debug\TRAINER - 2023 - ZELDA.csproj.Fody.CopyLocal.cache
+C:\Users\NSC\source\repos\TRAINER - 2023 - ZELDA\obj\Debug\TRAINER - 2023 - ZELDA.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\NSC\source\repos\TRAINER - 2023 - ZELDA\obj\Debug\TRAINER - 2023 - ZELDA.csproj.CopyComplete
+C:\Users\NSC\source\repos\TRAINER - 2023 - ZELDA\obj\Debug\TRAINER - 2023 - ZELDA.exe
+C:\Users\NSC\source\repos\TRAINER - 2023 - ZELDA\obj\Debug\TRAINER - 2023 - ZELDA.pdb
